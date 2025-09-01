@@ -1,6 +1,6 @@
 # React Native Template – Praktikum PPMB
 v1
-# RN Template siap pakai
+# RN Template siap pakai utk tugas
 ## 📌 Instruksi
 1. Clone repo ini
 2. Install dependencies
